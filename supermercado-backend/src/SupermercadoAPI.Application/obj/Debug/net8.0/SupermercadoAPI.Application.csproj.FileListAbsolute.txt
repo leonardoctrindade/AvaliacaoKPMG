@@ -1,0 +1,17 @@
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\bin\Debug\net8.0\SupermercadoAPI.Application.deps.json
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\bin\Debug\net8.0\SupermercadoAPI.Application.runtimeconfig.json
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\bin\Debug\net8.0\SupermercadoAPI.Application.dll
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\bin\Debug\net8.0\SupermercadoAPI.Application.pdb
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\bin\Debug\net8.0\SupermercadoAPI.Domain.dll
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\bin\Debug\net8.0\SupermercadoAPI.Domain.pdb
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.csproj.AssemblyReference.cache
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.AssemblyInfoInputs.cache
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.AssemblyInfo.cs
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\Supermer.490224FD.Up2Date
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.dll
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\refint\SupermercadoAPI.Application.dll
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.pdb
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\SupermercadoAPI.Application.genruntimeconfig.cache
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Application\obj\Debug\net8.0\ref\SupermercadoAPI.Application.dll

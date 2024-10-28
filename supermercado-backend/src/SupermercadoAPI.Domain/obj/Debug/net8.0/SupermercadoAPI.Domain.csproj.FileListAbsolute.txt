@@ -1,0 +1,11 @@
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\bin\Debug\net8.0\SupermercadoAPI.Domain.deps.json
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\bin\Debug\net8.0\SupermercadoAPI.Domain.dll
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\bin\Debug\net8.0\SupermercadoAPI.Domain.pdb
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\SupermercadoAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\SupermercadoAPI.Domain.AssemblyInfoInputs.cache
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\SupermercadoAPI.Domain.AssemblyInfo.cs
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\SupermercadoAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\SupermercadoAPI.Domain.dll
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\refint\SupermercadoAPI.Domain.dll
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\SupermercadoAPI.Domain.pdb
+C:\Projetos\SupermercadoAPI\src\SupermercadoAPI.Domain\obj\Debug\net8.0\ref\SupermercadoAPI.Domain.dll

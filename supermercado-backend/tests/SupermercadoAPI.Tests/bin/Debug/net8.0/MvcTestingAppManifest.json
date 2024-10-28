@@ -1,0 +1,6 @@
+{
+  "SupermercadoAPI.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\SupermercadoAPI\\src\\SupermercadoAPI.API",
+  "SupermercadoAPI.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\SupermercadoAPI\\src\\SupermercadoAPI.Application",
+  "SupermercadoAPI.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\SupermercadoAPI\\src\\SupermercadoAPI.Domain",
+  "SupermercadoAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projetos\\SupermercadoAPI\\src\\SupermercadoAPI.Infrastructure"
+}

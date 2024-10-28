@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NArgJ6GZBzZbG8UJUXQnGwWgHY1RKupmcUWcAuHV9CY=",
+  "Source": "SupermercadoAPI.API",
+  "BasePath": "_content/SupermercadoAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
